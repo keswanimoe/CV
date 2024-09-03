@@ -8,6 +8,7 @@ Motivated mathematics graduate with a strong passion for coding, communicating, 
 | ---------------------------- | ----------------- | ----------------- |
 | **HOSP Reliability Project** | Makers Cloud Engineering Specialism bootcamp final project | AWS (EC2, Athena, CloudWatch), Nginx, Postman |
 | **Wealth Wizard - Empower Pennies Hackathon Winner**            | Terminal app which prompts user to enter file path to their monthly bank statement jpg or pdf file and using OCR technology and generative AI, extracts text from file to output a categorised spending overview with financial advice based on spending | Python, Tesseract, Firebase, OpenAI GPT-4, Kivy, Git, Panda             |
+| **NeuroGame** | Final Year University Project with PJ Care  | Unity, C#, Inkscape |
 
 ## Work Experience
 
