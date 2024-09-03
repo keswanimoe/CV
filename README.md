@@ -12,7 +12,7 @@ Motivated mathematics graduate with a strong passion for coding, communicating, 
 
 ## Work Experience
 
-**Quanticate** (Oct2021 to Oct 2023)  
+**Quanticate** (Oct 2021 to Oct 2023)  
 _Programmer II_
 
 - Utilised SAS software to identify and resolve bugs quickly while maintaining excellent programming practices to produce tables,
