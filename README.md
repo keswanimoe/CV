@@ -7,7 +7,7 @@ Motivated mathematics graduate with a strong passion for coding, communicating, 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Wealth Wizard, Empower Pennies Hackathon Winner**            | Terminal app which prompts user to enter file path to their monthly bank statement jpg or pdf file and using OCR technology and generative AI, extracts text from file to output a categorised spending overview with financial advice based on spending | Python, Tesseract, Firebase, OpenAI GPT-4, Kivy, Git, Panda             |
+| **Wealth Wizard - Empower Pennies Hackathon Winner**            | Terminal app which prompts user to enter file path to their monthly bank statement jpg or pdf file and using OCR technology and generative AI, extracts text from file to output a categorised spending overview with financial advice based on spending | Python, Tesseract, Firebase, OpenAI GPT-4, Kivy, Git, Panda             |
 
 ## Work Experience
 
