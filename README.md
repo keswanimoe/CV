@@ -77,7 +77,7 @@ Mathematical Physics, Plane Geometry, Elements of Number Theory, Statistical Dat
 
 ## Hobbies
 
-🧵 I taught myself how to sew during the lockdown of March 2020 in an effort to stop buying fast fashion and I have never looked back! I upcycle and tailor a lot of second-hand garments and you can follow along with all my projects on my Instagram page @moeshasewing 
+🧵 I taught myself how to sew during the lockdown of March 2020 in an effort to stop buying fast fashion and I have never looked back. I upcycle and tailor a lot of second-hand garments and you can follow along with all my projects on my Instagram page @moeshasewing 
 
 👾 I love playing games on my Nintendo Switch! Some of my favourite games are Animal Crossing New Horizons, Cuphead and Inside. My family and I play a lot of Mario Party and Overcooked (which can get very heated!) - I think I might also start playing Stardew Valley because I've heard great things 😁
 
