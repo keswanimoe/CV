@@ -74,7 +74,7 @@ processes in software development projects
 Mathematical Physics, Plane Geometry, Elements of Number Theory, Statistical Data Analysis)
 
 #### Vyners School (2014 – 2018)
-- A-Levels: Mathematics (A), English Literature (B), Drama and Theatre Studies, Extended Project Qualification
+- A-Levels: Mathematics, English Literature, Drama and Theatre Studies, Extended Project Qualification
 - 9 GCSEs including Mathematics (A) and English Language (B)
 
 
