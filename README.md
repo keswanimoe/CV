@@ -71,5 +71,14 @@ processes in software development projects
 Mathematical Physics, Plane Geometry, Elements of Number Theory, Statistical Data Analysis)
 
 #### Vyners School (2014 – 2018)
-• A-Levels: Mathematics (A), English Literature (B), Drama and Theatre Studies, Extended Project Qualification
-• 9 GCSEs including Mathematics (A) and English Language (B)
+- A-Levels: Mathematics (A), English Literature (B), Drama and Theatre Studies, Extended Project Qualification
+- 9 GCSEs including Mathematics (A) and English Language (B)
+
+
+## Hobbies
+
+🧵 I taught myself how to sew during lockdown of March 2020 in an effort to stop buying fast fashion and begin upcycling and tailoring second hand garments and I have never looked back! - You can follow along with all my projects on my Instagram page @moeshasewing 
+
+👾 I love playing games on my Nintendo Switch! Some of my favourite games are Animal Crossing New Horizons, Cuphead and Inside. My family and I play a lot of Mario Party and Overcooked (which can get very heated!) - I think I might also start playing Stardew Valley because I've heard great things 😁
+
+✈️ This year I backpacked across Asia for 5 months and had the most incredible time - In the future I definitely would love to travel across South America but not for a while, the travel fatique is very real right now! 
