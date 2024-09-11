@@ -43,6 +43,6 @@ During my time at university studying Mathematics, I frequently demonstrated str
 
 [See my presentation here](https://docs.google.com/presentation/d/1vtG30L3nhsF7T8__ICusVxt4i_QeAmIZFSUczQua-CE/edit?usp=sharing)
 
-## Attention to detail
+#### Attention to detail
 
 During my time at university studying Mathematics, I frequently demonstrated strong problem-solving skills. One module in particular, ‘Plane Geometry’ provided a key opportunity to showcase these skills. I was presented with a challenging problem involving a parallelogram ABCD, with a point P and a midpoint M at the intersection of the diagonals. I was tasked with proving that area(PDC) = area(APC) + area(BAP) + area(BPD). To tackle this, I deconstructed the figure into smaller, more manageable shapes. Using the information provided and applying the Parallelogram Law, I calculated the areas of the smaller shapes I had created. By breaking the complex problem down into simpler components, I developed a logical proof through deduction, which earned me a first-class mark. This method of problem-solving by breaking down larger, complex tasks into smaller, digestible parts has become a key strategy in my approach to debugging complex code. In practise, I will isolate sections of code, simplifying the problem to find the root cause before building the solution step by step and I find this incredibly effective and efficient.
