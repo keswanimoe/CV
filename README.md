@@ -84,4 +84,4 @@ Mathematical Physics, Plane Geometry, Elements of Number Theory, Statistical Dat
 
 👾 I love playing games on my Nintendo Switch! Some of my favourite games are Animal Crossing New Horizons, Cuphead and Inside. My family and I play a lot of Mario Party and Overcooked (which can get very heated!) - I think I might also start playing Stardew Valley because I've heard great things 😁
 
-✈️ This year I backpacked across Asia for 5 months and had the most incredible time - In the future I definitely would love to travel across South America but not for a while, the travel fatique is very real right now! 
+✈️ This year I backpacked across Asia for 5 months and had the most incredible time - In the future I definitely would love to travel across South America but not for a while, the travel fatigue is very real right now! 
