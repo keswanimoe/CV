@@ -12,7 +12,7 @@ Motivated mathematics graduate with a strong passion for coding, communicating, 
 | [**Hobby Page**](https://github.com/keswanimoe/Hobby-Page) | A personal Hobby Page project to refine my HTML, CSS and JavaScript skills  | HTML, JavaScript, CSS, Git |
 | [**Quiz App**](https://github.com/keswanimoe/quiz-app) | An interactive quiz app created as part of FDM's She Lives Tech Coding Bootcamp in March 2023  | HTML, JavaScript, CSS, JSON API (Open Trivia DB) |
 | [**Movie Data**](https://github.com/keswanimoe/Movie-Data/) | My first time trying Github deployments | Unity, C#, Inkscape |
-| [**Makers Invaders**](https://github.com/keswanimoe/makers-invaders) | A game created using Pygame inspired by the classic arcade game Space Invaders | Python |
+| [**Makers Invaders**](https://github.com/keswanimoe/makers_invaders) | A game created using Pygame inspired by the classic arcade game Space Invaders | Python |
 
 ## Work Experience
 
