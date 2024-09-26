@@ -24,7 +24,7 @@ _Programmer II_
 - Applied mathematical aptitude and problem-solving abilities, coupled with strong attention to detail, ensuring efficient code writing and testing, and contributing to quality control checks on large-scale programs and outputs
 - Demonstrated excellent time management and organisational skills by successfully managing multiple projects simultaneously
   
-**Inditex, Stradivarius** (June 2018 to July 2018)  
+**Inditex, Stradivarius** (Jun 2018 to Jul 2018)  
 _Sales Advisor_
 
 - Demonstrated impressive communication skills by conversing with buyers and actively listening to consumers
@@ -32,10 +32,10 @@ _Sales Advisor_
 in the stock room and retrieve information for consumers quickly and effectively
 - Capable of responding to change efficiently, honed by running clothes from the fitting room back onto a busy shop floor
 
-**Wagamama** (December 2016 to August 2017)  
+**Wagamama** (Dec 2016 to Aug 2017)  
 _Front of House_
 
-- Established skills in effective teamwork with back of house staff to provide prompt, impressive customer service during hectic shifts
+- Established skills in effective teamwork with back-of-house staff to provide prompt, impressive customer service during hectic shifts
 - Expert at communicating with customers by taking orders and demonstrating curiosity by asking questions regarding dietary requirements
 - Maintained proper accountability for orders and funds when managing tables and delivering bills.
 
@@ -43,13 +43,13 @@ _Front of House_
 
 #### Problem-solving 
 
-During my time at university studying Mathematics, I frequently demonstrated strong problem-solving skills. One module in particular, ‘Plane Geometry’ provided a key opportunity to showcase these skills. I was presented with a challenging problem involving a parallelogram ABCD, with a point P and a midpoint M at the intersection of the diagonals. I was tasked with proving that area(PDC) = area(APC) + area(BAP) + area(BPD). To tackle this, I deconstructed the figure into smaller, more manageable shapes. Using the information provided and applying the Parallelogram Law, I calculated the areas of the smaller shapes I had created. By breaking the complex problem down into simpler components, I developed a logical proof through deduction, which earned me a first-class mark. This method of problem-solving by breaking down larger, complex tasks into smaller, digestible parts has become a key strategy in my approach to debugging complex code. In practise, I will isolate sections of code, simplifying the problem to find the root cause before building the solution step by step and I find this incredibly effective and efficient.
+During my time at university studying Mathematics, I frequently demonstrated strong problem-solving skills. One module in particular, ‘Plane Geometry’ provided a key opportunity to showcase these skills. I was presented with a challenging problem involving a parallelogram ABCD, with a point P and a midpoint M at the intersection of the diagonals. I was tasked with proving that area(PDC) = area(APC) + area(BAP) + area(BPD). To tackle this, I deconstructed the figure into smaller, more manageable shapes. Using the information provided and applying the Parallelogram Law, I calculated the areas of the smaller shapes I had created. By breaking the complex problem down into simpler components, I developed a logical proof through deduction, which earned me a first-class mark. This method of problem-solving by breaking down larger, complex tasks into smaller, digestible parts has become a key strategy in my approach to debugging complex code. In practice, I will isolate sections of code, simplifying the problem to find the root cause before building the solution step by step and I find this incredibly effective and efficient.
 
 [See my presentation here](https://docs.google.com/presentation/d/1vtG30L3nhsF7T8__ICusVxt4i_QeAmIZFSUczQua-CE/edit?usp=sharing)
 
 #### Attention to detail
 
-In my previous role as a SAS programmer, I was responsible for deriving tables, listings, and figures based on specific client requirements, while ensuring adherence to CDISC standards. Part of my role involved quality controlling the outputs before delivering them to the client. To ensure accuracy, I would meticulously spot-check calculated data, as well as titles, headers, and footers, verifying they matched the client-provided shells, a document detailing how the tables, listings, and figures should be presented. I would also scan for any inconsistencies or irregularities across groups of tables, including spellings, syntax, and column totals. This experience significantly sharpened my attention to detail, which has been invaluable in identifying and resolving errors before they reached the client. My attention to detail is particularly beneficial during the testing and deployment phase of projects, where I can quickly identify flaws or security risks in code, such as hardcoded credentials, and address them early, preventing potential issues and ensuring the integrity of the final product.
+In my previous role as a SAS programmer, I was responsible for deriving tables, listings, and figures based on specific client requirements, while ensuring adherence to CDISC standards. Part of my role involved quality-controlling the outputs before delivering them to the client. To ensure accuracy, I would meticulously spot-check calculated data, as well as titles, headers, and footers, verifying they matched the client-provided shells, a document detailing how the tables, listings, and figures should be presented. I would also scan for any inconsistencies or irregularities across groups of tables, including spelling, syntax, and column totals. This experience significantly sharpened my attention to detail, which has been invaluable in identifying and resolving errors before they reach the client. My attention to detail is particularly beneficial during the testing and deployment phase of projects, where I can quickly identify flaws or security risks in code, such as hardcoded credentials, and address them early, preventing potential issues and ensuring the integrity of the final product.
 
 #### Teamwork 
 
