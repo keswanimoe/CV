@@ -19,9 +19,13 @@ Motivated mathematics graduate with a strong passion for coding, communicating, 
 **Quanticate** (Oct 2021 to Oct 2023)  
 _Programmer II_
 
-- Utilised SAS software to identify and resolve bugs quickly while maintaining excellent programming practices to produce tables, listings, and figures in .txt and .csv format
 - Acted as a dependable and collaborative team member, consistently completing activities ahead of schedule and proactively assisting colleagues through pair programming and communication on MS Teams
 - Applied mathematical aptitude and problem-solving abilities, coupled with strong attention to detail, ensuring efficient code writing and testing, and contributing to quality control checks on large-scale programs and outputs
+
+_Programmer I_
+
+- Utilised SAS software to identify and resolve bugs quickly while maintaining excellent programming practices to produce tables, listings, and figures in .txt and .csv format
+- Wrote SQL queries to identify issues in large datasets, later processing irregular values in programs with SAS code
 - Demonstrated excellent time management and organisational skills by successfully managing multiple projects simultaneously
   
 **Inditex, Stradivarius** (Jun 2018 to Jul 2018)  
