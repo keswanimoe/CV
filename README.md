@@ -19,13 +19,25 @@ Motivated mathematics graduate with a strong passion for coding, communicating, 
 **Quanticate** (Oct 2021 to Oct 2023)  
 _Programmer II_
 
-- Utilised SAS software to identify and resolve bugs quickly while maintaining excellent programming practices to produce tables,
-listings, and figures in .txt and .csv format.
-- Acted as a dependable and collaborative team member, consistently completing activities ahead of schedule and proactively
-assisting colleagues through pair programming and communication on MS Teams
-- Applied mathematical aptitude and problem-solving abilities, coupled with strong attention to detail, ensuring efficient code writing
-and testing, and contributing to quality control checks on large-scale programs and outputs
+- Utilised SAS software to identify and resolve bugs quickly while maintaining excellent programming practices to produce tables, listings, and figures in .txt and .csv format
+- Acted as a dependable and collaborative team member, consistently completing activities ahead of schedule and proactively assisting colleagues through pair programming and communication on MS Teams
+- Applied mathematical aptitude and problem-solving abilities, coupled with strong attention to detail, ensuring efficient code writing and testing, and contributing to quality control checks on large-scale programs and outputs
 - Demonstrated excellent time management and organisational skills by successfully managing multiple projects simultaneously
+  
+**Inditex, Stradivarius** (June 2018 to July 2018)  
+_Sales Advisor_
+
+- Demonstrated impressive communication skills by conversing with buyers and actively listening to consumers
+- Developed fantastic interpersonal and teamwork skills through the use of walkie-talkies to communicate with team members
+in the stock room and retrieve information for consumers quickly and effectively
+- Capable of responding to change efficiently, honed by running clothes from the fitting room back onto a busy shop floor
+
+**Wagamama** (December 2016 to August 2017)  
+_Front of House_
+
+- Established skills in effective teamwork with back of house staff to provide prompt, impressive customer service during hectic shifts
+- Expert at communicating with customers by taking orders and demonstrating curiosity by asking questions regarding dietary requirements
+- Maintained proper accountability for orders and funds when managing tables and delivering bills.
 
 ## Skills
 
