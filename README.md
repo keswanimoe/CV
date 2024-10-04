@@ -68,6 +68,8 @@ In addition to my technical experience, I am proud of my ability to learn new te
 
 While traveling across Japan, I spontaneously purchased a Japanese calligraphy brush pen, and began experimenting with doodles and drawings in my pocket sketchbook. Intrigued by the artistic possibilities, I challenged myself to improve my technique, sharpen my drawings, and refine my style, to transform these creations into something tangible and marketable. To achieve this, I taught myself Inkscape, a graphic design software similar to Adobe Illustrator, and began scanning my drawings using my phone as I didn’t have access to a scanner while on the go. I then turned these sketches into vector images and elevated them further by adding colour and enhancing the designs digitally. Taking it a step further, I compiled my favourite works into sticker sheets, manufactured them, and began selling them on Etsy and Instagram, primarily to the scrapbooking community my friends were a part of. The result was a successful venture that showcased my creativity and allowed me to adapt quickly to new technologies, turning my artistic passion into a profitable side business. 
 
+[Etsy shop here](https://www.etsy.com/uk/shop/moeshadoodles)
+
 ## Education
 
 #### Makers Academy - Cloud Engineering Specialism (June 2024 to Sept 2024)
